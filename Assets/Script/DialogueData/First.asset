@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42fe04ba6ba82f8408e5038069b982c2, type: 3}
+  m_Name: First
+  m_EditorClassIdentifier: 
+  dialogues:
+  - text: 'Demon: Foolish human, do you dare to challenge me, the lord of hell?'
+    textColor: {r: 1, g: 0, b: 0, a: 1}
+    textFont: {fileID: 0}
+    enableShake: 1
+    cameraTargetType: 0
+  - text: 'Demon: Don''t you know that your resistance will only deepen your suffering?'
+    textColor: {r: 1, g: 1, b: 1, a: 1}
+    textFont: {fileID: 0}
+    enableShake: 0
+    cameraTargetType: 1
+  - text: 'Demon: In my presence, your courage is nothing but laughable arrogance.'
+    textColor: {r: 1, g: 1, b: 1, a: 1}
+    textFont: {fileID: 0}
+    enableShake: 1
+    cameraTargetType: 2
+  - text: 'Demon: Accept your fate, for it is an inescapable destiny.'
+    textColor: {r: 1, g: 1, b: 1, a: 1}
+    textFont: {fileID: 0}
+    enableShake: 0
+    cameraTargetType: 3
+  - text: 'Demon: Your soul is already entwined by darkness, with no light to seek.'
+    textColor: {r: 1, g: 1, b: 1, a: 1}
+    textFont: {fileID: 0}
+    enableShake: 0
+    cameraTargetType: 4
+  - text: 'Demon: Every struggle you make only strengthens my power.'
+    textColor: {r: 1, g: 0.90410185, b: 0, a: 1}
+    textFont: {fileID: 12800000, guid: 0ec5aa723cee990498b144ec580d152a, type: 3}
+    enableShake: 1
+    cameraTargetType: 1
+  - text: 'Demon: Give up, it is your only choice, or you will face utter annihilation.'
+    textColor: {r: 1, g: 1, b: 1, a: 1}
+    textFont: {fileID: 0}
+    enableShake: 0
+    cameraTargetType: 1
+  - text: 'Demon: In this endless abyss, I am the only ruler.'
+    textColor: {r: 1, g: 1, b: 1, a: 1}
+    textFont: {fileID: 0}
+    enableShake: 0
+    cameraTargetType: 4
+  - text: 'Demon: In this endless abyss, I am the only ruler.'
+    textColor: {r: 1, g: 0.47788596, b: 0, a: 1}
+    textFont: {fileID: 0}
+    enableShake: 0
+    cameraTargetType: 3
+  - text: 'Demon: In this endless abyss, I am the only ruler.'
+    textColor: {r: 1, g: 1, b: 1, a: 1}
+    textFont: {fileID: 0}
+    enableShake: 0
+    cameraTargetType: 4
+  typingSpeed: 0.01
+  displayTime: 2
+  defaultFont: {fileID: 12800000, guid: 3dbbe83e298e2cb4d956ecce320d1c58, type: 3}
